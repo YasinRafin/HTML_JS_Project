@@ -1,6 +1,15 @@
 # Assignment_JS
 In this assignment functionalities for adding place,check in and check out dates for visitors and also number of guests has been added. Also the show all photos button has been made functional where it displays the image gallery for the photos and also share button functionality has been developed where a visitor can share the details of the hotel rooms. This functionalities has been added using vanilla JavaScript.
 
+# Tools Used:
+- HTML, CSS, JavaScript
+
+# Install dependencies:
+- Extension for HTML, CSS, JavaScript and Live server
+
+# Run Command:
+- Open With Live Server
+
 # Available features:
 ### Place, Check in, Check out , Guest Info:
 ![Screenshot from 2024-07-15 16-13-23](https://github.com/user-attachments/assets/b549376f-b989-408c-9c0e-4a1907040058)
